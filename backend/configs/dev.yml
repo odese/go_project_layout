@@ -1,0 +1,6 @@
+host:
+  port: xxxx
+couchbase:
+  server: x.x.x.x
+  username: "..."
+  password: "..."
