@@ -1,4 +1,4 @@
-module go_project_layout
+module go_project_layout/backend
 
 go 1.19
 
